@@ -1,0 +1,5 @@
+english: false
+GIT: true
+Terminal: true
+manual_testing: true
+mobile_testing: true

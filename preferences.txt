@@ -1,0 +1,5 @@
+fav_film: Goodfellas_1990
+fav_series: null
+fav_food: veal_orloff
+fav_season: summer
+country_to_visit: turkey
