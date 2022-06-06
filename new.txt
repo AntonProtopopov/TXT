@@ -1,0 +1,4 @@
+name: Protopopov Anton Olegovich
+age: 21
+pets: 1
+future salary: $1200
